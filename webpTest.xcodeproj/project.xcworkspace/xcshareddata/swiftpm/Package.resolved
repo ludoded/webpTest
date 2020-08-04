@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "WebP",
+        "repositoryURL": "https://github.com/ainame/Swift-WebP",
+        "state": {
+          "branch": null,
+          "revision": "45754bdc04ac407193c5a953d74663cfb3a691bb",
+          "version": "0.3.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
